@@ -1,25 +1,39 @@
 # Task Manager
 
-A responsive task management web application built with HTML, CSS and JavaScript.
+A responsive task management web application built using HTML, CSS, and JavaScript.
 
 ## Features
 
-- Add, edit and delete tasks
+- Add tasks
+- Edit tasks
+- Delete individual tasks
+- Clear all tasks
 - Complete / uncomplete tasks
 - Search tasks
-- Filter tasks
+- Filter tasks by All, Active, and Completed
 - Priority management
 - Due dates
 - Progress tracking
-- Dashboard
+- Task dashboard
 - Dark mode
 - Local Storage
-- Clear all tasks
 - Responsive design
 
-## Technologies
+## Technologies Used
 
-HTML
-CSS
-JavaScript
-Local Storage
+- HTML5
+- CSS3
+- JavaScript
+- Local Storage
+
+## Project Preview
+
+A simple and responsive task manager designed to help users organize and track their daily tasks.
+
+## Future Improvements
+
+- Drag and drop tasks
+- Overdue task detection
+- Task categories
+- Toast notifications
+- Advanced analytics
